@@ -1,0 +1,13 @@
+<application>
+  <component name="PowerModeII">
+    <option name="bamLife" value="544" />
+    <option name="flameLife" value="533" />
+    <option name="frameRate" value="60" />
+    <option name="greenFrom" value="56" />
+    <option name="isCaretAction" value="false" />
+    <option name="maxFlameSize" value="144" />
+    <option name="redFrom" value="63" />
+    <option name="redTo" value="63" />
+    <option name="shakeEnabled" value="false" />
+  </component>
+</application>
